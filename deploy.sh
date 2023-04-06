@@ -22,4 +22,4 @@ git branch -M main
 
 # 如果你想要部署到 https://USERNAME.github.io
 #git@github.com:xiao-yu-yu/xiao-yu-yu.github.io.git
-git push -f git@github.com:xiao-yu-yu/xiao-yu-yu.github.io.git main
+git push -f git@github.com:xiao-yu-yu/blog.git main
